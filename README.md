@@ -11,5 +11,5 @@ Sample configuration
 - MacOS version: Monterey 12.4
 - OpenCore version: 0.8.0
 
-<img src="images/Snipaste_2022-06-13_16-07-43" alt="Snipaste_2022-06-13_16-07-43" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/teg1c/b660i-aorus-pro-ddr4-12600kf-efi/master/images/Snipaste_2022-06-13_16-07-43.png" alt="Snipaste_2022-06-13_16-07-43" style="zoom:50%;" />
 
