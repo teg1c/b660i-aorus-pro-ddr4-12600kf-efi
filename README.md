@@ -1,7 +1,7 @@
 Sample configuration
 
 - Motherboard: B660I AORUS PRO DDR4
-- CPU: i7-12600KF
+- CPU: i5-12600KF
 - GPU: Radeon RX 6600 Challenger ITX 8GB
 - RAM: Corsair DDR4 16GB x 2 (3000MHz)
 - SSD: MX500 1T
